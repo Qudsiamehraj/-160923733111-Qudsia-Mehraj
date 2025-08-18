@@ -82,7 +82,7 @@ DELETE /tasks/{id}
 # How to Run
 
 1. Clone the repo
-git clone https://github.com/Qudsiamehraj/TaskManager.git
+git clone https://github.com/Qudsiamehraj/-160923733111-Qudsia-Mehraj.git
 
 2. Open in IntelliJ IDEA
 
