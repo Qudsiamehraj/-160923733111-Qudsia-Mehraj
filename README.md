@@ -1,14 +1,14 @@
 # -160923733111-Qudsia-Mehraj
 
-#Task Manager (Spring Boot REST API)
+# Task Manager (Spring Boot REST API)
 
-#About
+# About
 
 This project is a simple Task Manager REST API built using Spring Boot.
 It supports CRUD operations (Create, Read, Update, Delete) for managing tasks.
 Each task has a title, description, and status (PENDING, COMPLETED, BLOCKED).
 
-#Project Structure
+# Project Structure
 
 TaskManager/
  ├── src/main/java/com/example/demo
@@ -28,7 +28,7 @@ Maven
 Postman (for testing API)
 
 
-#API Endpoints
+# API Endpoints
 
 1️⃣ Create Task
 
@@ -79,7 +79,7 @@ Body (JSON):
 DELETE /tasks/{id}
 
 
-#How to Run
+# How to Run
 
 1. Clone the repo
 git clone https://github.com/Qudsiamehraj/TaskManager.git
@@ -90,7 +90,7 @@ git clone https://github.com/Qudsiamehraj/TaskManager.git
 
 
 4. Test APIs using Postman
-5. 
+
 
 
 
