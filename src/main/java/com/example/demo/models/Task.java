@@ -6,7 +6,7 @@ public class Task {
     private String description;
     private Status status;
 
-    // Constructor
+    
     public Task(int id, String title, String description, Status status) {
         this.id = id;
         this.title = title;
@@ -14,11 +14,11 @@ public class Task {
         this.status = status;
     }
 
-    // Default constructor (important for JSON deserialization)
+    
     public Task() {
     }
 
-    // Getters and Setters
+    
     public int getId() {
         return id;
     }
